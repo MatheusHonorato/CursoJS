@@ -1,2 +1,2 @@
 # CursoJS
-Curso de Javascript - Curso em video
+Curso de Javascript - Curso em vídeo
